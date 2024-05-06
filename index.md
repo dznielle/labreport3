@@ -22,7 +22,7 @@ I will be looking at the bug in the `reversed(int arr[])` function
 ```
 
 **3. The symptom, as the output of running the two tests above**
-![Image]()
+![Image](outputTests.PNG)
 
 **4. The bug, as the before-and-after code change required to fix it**
 
