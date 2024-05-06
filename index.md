@@ -49,6 +49,7 @@ Fixed Code
 ```
 
 **5. Brief Description**
+
 The code is buggy because returns the original array and does not assign values from `arr`  to `newArray`. This fix addresses these issues because `newArray` now receives values from `arr` and the function correctly returns the reversed array.
 
    
