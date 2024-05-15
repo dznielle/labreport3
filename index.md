@@ -55,7 +55,7 @@ The code is buggy because returns the original array and does not assign values 
    
 ## Part 2 Researching Commands
 
-For this section I used an article called Mastering grep Command: Your Complete Cheat Sheet for Efficient Text Searching in Linux, found at this link: https://medium.com/@cuncis/mastering-grep-command-your-complete-cheat-sheet-for-efficient-text-searching-in-linux-b569a573432b, as a guide to help me discover and use commands related to grep.
+For this section I used an article called Mastering grep Command: Your Complete Cheat Sheet for Efficient Text Searching in Linux, found at this link: [https://medium.com/@cuncis/mastering-grep-command-your-complete-cheat-sheet-for-efficient-text-searching-in-linux-b569a573432b], as a guide to help me discover and use commands related to grep.
 
 **1. `grep -r "Apple"`**
 ```
